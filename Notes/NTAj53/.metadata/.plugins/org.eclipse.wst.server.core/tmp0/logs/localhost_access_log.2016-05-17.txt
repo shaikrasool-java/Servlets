@@ -1,0 +1,12 @@
+127.0.0.1 - - [17/May/2016:17:15:15 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:15:41 +0530] "POST /SessionApp/furl HTTP/1.1" 500 3630
+127.0.0.1 - - [17/May/2016:17:16:37 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:16:53 +0530] "POST /SessionApp/furl HTTP/1.1" 200 788
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:17:52 +0530] "GET /SessionApp/surl?exp=30&skils=JAVA HTTP/1.1" 500 1463
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:18:40 +0530] "GET /SessionApp/surl?exp=30&skils=JAVA HTTP/1.1" 500 1463
+127.0.0.1 - - [17/May/2016:17:23:16 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:23:35 +0530] "POST /SessionApp/furl HTTP/1.1" 200 830
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:23:52 +0530] "GET /SessionApp/surl;jsessionid=03050839B1128BA933545FAA3A14BEA0?exp=30&skils=JAVA HTTP/1.1" 200 513
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:24:15 +0530] "GET /SessionApp/turl;jsessionid=03050839B1128BA933545FAA3A14BEA0?city=hyd&sal=34346 HTTP/1.1" 200 178
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:26:37 +0530] "POST /SessionApp/furl HTTP/1.1" 200 830
+0:0:0:0:0:0:0:1 - - [17/May/2016:17:26:55 +0530] "GET /SessionApp/surl;jsessionid=A716FABC01568F6BDB648905B8330D8B?exp=3&skils=JAVA HTTP/1.1" 200 469

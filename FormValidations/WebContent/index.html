@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script language="JavaScript" src="validation.js"></script>
+</head>
+<body>
+<center>
+<form action="VoterServlet"  onsubmit="return validate(this)">
+Name:<input type="text" name="name">
+<span id="nameErr"></span><br><br>
+age:<input type="text" name="age">
+<span id="ageErr"></span><br><br>
+
+<input type="hidden" value="no" name="vflag"/><br/>
+<input type="submit" value="check Voting Eligibility">
+</form>
+</center>
+</body>
+</html>

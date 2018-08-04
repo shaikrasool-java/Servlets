@@ -1,0 +1,12 @@
+127.0.0.1 - - [10/Jul/2018:10:15:09 +0530] "GET / HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:15:21 +0530] "GET /AnnoFormApp/test?user=RASOOL HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:15:45 +0530] "GET /AnnoFormApp/test?user=RASOOL HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:15:46 +0530] "GET /AnnoFormApp/test?user=RASOOL HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:15:49 +0530] "GET /AnnoFormApp/test?user=RASOOL HTTP/1.1" 200 20
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:15:54 +0530] "GET /AnnoFormApp/test?user=RASOOL HTTP/1.1" 200 21
+127.0.0.1 - - [10/Jul/2018:10:18:37 +0530] "GET / HTTP/1.1" 404 1070
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:18:38 +0530] "GET /StudentResult/ HTTP/1.1" 200 538
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:18:54 +0530] "GET /StudentResult/StudentControllerServlet?no=11&name=RASOOL&m1=56&m2=56&m3=5 HTTP/1.1" 500 1781
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:19:02 +0530] "GET /StudentResult/StudentControllerServlet?no=11&name=RASOOL&m1=56&m2=56&m3=56 HTTP/1.1" 500 1781
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:19:34 +0530] "GET /StudentResult/StudentControllerServlet?no=101&name=RASOOL&m1=56&m2=56&m3=56 HTTP/1.1" 500 1781
+0:0:0:0:0:0:0:1 - - [10/Jul/2018:10:19:42 +0530] "GET /StudentResult/StudentControllerServlet?no=101&name=RASOOL&m1=56&m2=65&m3=78 HTTP/1.1" 500 1781

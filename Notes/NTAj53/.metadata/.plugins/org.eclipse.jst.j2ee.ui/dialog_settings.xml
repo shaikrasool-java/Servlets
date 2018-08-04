@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="true" key="J2EE_EXPORT_SOURCE"/>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="D:\Tomcat 8.0\webapps\URLApp.war"/>
+		<item value="D:\Tomcat 8.0\webapps\SessionApp.war"/>
+		<item value="D:\Tomcat 8.0\webapps\WATwo.war"/>
+		<item value="D:\Tomcat 8.0\webapps\WAOne.war"/>
+		<item value="D:\Oracle\Middleware\Oracle_Home\user_projects\domains\NTAj53Domain\autodeploy\WATwo.war"/>
+		<item value="D:\Oracle\Middleware\Oracle_Home\user_projects\domains\NTAj53Domain\autodeploy\WAOne.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v8.0"/>
+	</list>
+</section>

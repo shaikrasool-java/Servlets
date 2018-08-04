@@ -1,0 +1,23 @@
+<web-app>
+  <display-name>DynaFormApp</display-name>
+  <welcome-file-list>
+    <welcome-file>details.html</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>first</servlet-name>
+    <servlet-class>com.nt.servlet.FirstServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>first</servlet-name>
+   <url-pattern>/s1url</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+    <servlet-name>second</servlet-name>
+    <servlet-class>com.nt.servlet.SecondServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+   <servlet-name>second</servlet-name>
+   <url-pattern>/s2url</url-pattern>
+  </servlet-mapping>
+</web-app>

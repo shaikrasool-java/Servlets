@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v8.5 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v8.5 Server at localhost" name="Tomcat v8.5 Server at localhost" runtime-id="Apache Tomcat v8.5" server-type="org.eclipse.jst.server.tomcat.85" server-type-id="org.eclipse.jst.server.tomcat.85" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="15">
+    <list key="modules" value0="AttributeApp::org.eclipse.jst.jee.server:AttributeApp::jst.web::2.5" value1="AttributesApp::org.eclipse.jst.jee.server:AttributesApp::jst.web::3.1" value2="DBApp::org.eclipse.jst.jee.server:DBApp::jst.web::3.1" value3="AnnoFormApp::org.eclipse.jst.jee.server:AnnoFormApp::jst.web::3.1" value4="Calc::org.eclipse.jst.jee.server:Calc::jst.web::2.5" value5="CookieApp1::org.eclipse.jst.jee.server:CookieApp1::jst.web::3.1" value6="StudentResult::org.eclipse.jst.jee.server:StudentResult::jst.web::2.5" value7="MIME::org.eclipse.jst.jee.server:MIME::jst.web::2.5" value8="DateApp::org.eclipse.jst.jee.server:DateApp::jst.web::2.5" value9="Html2Servlet_submit_button::org.eclipse.jst.jee.server:Html2Servlet_submit_button::jst.web::2.5"/>
+  </server>
+</servers>

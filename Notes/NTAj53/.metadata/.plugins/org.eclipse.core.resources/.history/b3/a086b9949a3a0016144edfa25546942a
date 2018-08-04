@@ -1,0 +1,15 @@
+
+<%-- uname req param value  :  ${param.uname } <br>
+address request param values : ${paramValues.addrs[0] },
+                                                              ${paramValues.addrs[1] }. --%>
+                                                              
+<%--   user-agent req header value : ${header['user-agent']} <br>
+ accept languages : ${headerValues.accept[0]}
+ --%> 
+  <%-- dbuser context param value :  ${initParam.dbuser }
+   --%>
+   Cookie name : ${cookie.JSESSSIONID.name}
+   cookie value :   ${cookie.JSESSSIONID.value}
+   
+   
+                                                                

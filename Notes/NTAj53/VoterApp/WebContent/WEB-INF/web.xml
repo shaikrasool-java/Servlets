@@ -1,0 +1,15 @@
+<web-app>
+    <servlet>
+	     <servlet-name>voter</servlet-name>
+		 <servlet-class>com.nt.servlet.VoterServlet</servlet-class>
+    </servlet>
+	<servlet-mapping>
+	     <servlet-name>voter</servlet-name>
+		 <url-pattern>/vturl</url-pattern>
+	</servlet-mapping>
+	<welcome-file-list>
+          <welcome-file>input.html</welcome-file>
+		  <welcome-file>input.jsp</welcome-file>
+		  <welcome-file>welcome.jsp</welcome-file>
+	</welcome-file-list> 
+</web-app>

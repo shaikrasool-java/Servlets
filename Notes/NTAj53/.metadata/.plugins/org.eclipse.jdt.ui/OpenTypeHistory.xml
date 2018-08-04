@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=URLApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet(ServletRequestListener.class[ServletRequestListener" modifiers="1537" timestamp="1391792996000"/>
+<typeInfo handle="=URLApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpSessionListener.class[HttpSessionListener" modifiers="1537" timestamp="1391792996000"/>
+<typeInfo handle="=URLApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpSessionAttributeListener.class[HttpSessionAttributeListener" modifiers="1537" timestamp="1391792996000"/>
+<typeInfo handle="=URLApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpSessionActivationListener.class[HttpSessionActivationListener" modifiers="1537" timestamp="1391792996000"/>
+<typeInfo handle="=URLApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet(ServletContextListener.class[ServletContextListener" modifiers="1537" timestamp="1391792996000"/>
+<typeInfo handle="=FilterApp1/C:\/Program Files\/Java\/jdk1.8.0_60\/jre\/lib\/rt.jar&lt;com.sun.org.apache.xalan.internal.xsltc.dom(Filter.class[Filter" modifiers="1537" timestamp="1461075614680"/>
+<typeInfo handle="=DBApp-RD/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpServlet.class[HttpServlet" modifiers="1057" timestamp="1391792996000"/>
+<typeInfo handle="=WrappersApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpServletRequestWrapper.class[HttpServletRequestWrapper" modifiers="33" timestamp="1391792996000"/>
+<typeInfo handle="=FilterApp1/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet(Filter.class[Filter" modifiers="1537" timestamp="1391792996000"/>
+<typeInfo handle="=WrappersApp/D:\/Tomcat 8.0\/lib\/servlet-api.jar&lt;javax.servlet.http(HttpServletResponseWrapper.class[HttpServletResponseWrapper" modifiers="33" timestamp="1391792996000"/>
+</typeInfoHistroy>

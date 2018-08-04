@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JSTL-FormattingApp&apos; to &apos;JSTL-Formatting-FunctionsApp&apos;" description="Rename resource &apos;JSTL-FormattingApp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/JSTL-FormattingApp" name="JSTL-Formatting-FunctionsApp" stamp="1466921080367" updateReferences="true"/>
+</session>

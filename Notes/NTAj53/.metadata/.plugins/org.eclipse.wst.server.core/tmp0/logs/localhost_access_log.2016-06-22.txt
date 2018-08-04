@@ -1,0 +1,13 @@
+127.0.0.1 - - [22/Jun/2016:18:14:58 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:15:05 +0530] "GET /CustTaglibApp/ HTTP/1.1" 404 1020
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:15:05 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:15:05 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:15:16 +0530] "GET /CustTaglibApp/Test.jsp HTTP/1.1" 200 438
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:15:43 +0530] "GET /CustTaglibApp/Test.jsp?print=yes HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:16:46 +0530] "GET /CustTaglibApp/Test.jsp?print=yes HTTP/1.1" 200 495
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:16:47 +0530] "GET /CustTaglibApp/Test.jsp?print=yes HTTP/1.1" 200 495
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:17:07 +0530] "GET /CustTaglibApp/Test.jsp?print=yes HTTP/1.1" 200 494
+127.0.0.1 - - [22/Jun/2016:18:39:51 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:39:51 +0530] "GET /EL-App1/ HTTP/1.1" 404 1008
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:39:59 +0530] "GET /EL-App1/test1.jsp HTTP/1.1" 200 14
+0:0:0:0:0:0:0:1 - - [22/Jun/2016:18:40:13 +0530] "GET /EL-App1/test1.jsp HTTP/1.1" 200 20

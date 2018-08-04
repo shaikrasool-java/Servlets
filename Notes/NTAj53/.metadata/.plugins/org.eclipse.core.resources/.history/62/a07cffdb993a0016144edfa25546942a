@@ -1,0 +1,7 @@
+<web-app>
+  <init-param>
+      <param-name>dbuser</param-name>
+      <param-value>scott</param-value>
+    </init-param>
+    
+</web-app>

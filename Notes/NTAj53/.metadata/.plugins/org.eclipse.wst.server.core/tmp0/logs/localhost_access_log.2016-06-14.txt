@@ -1,0 +1,9 @@
+127.0.0.1 - - [14/Jun/2016:18:45:08 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:11 +0530] "GET /JspApp12-UseBean/ HTTP/1.1" 404 1026
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:12 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:12 +0530] "GET /favicon.ico HTTP/1.1" 404 1014
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:18 +0530] "GET /JspApp12-UseBean/SetValues.jsp HTTP/1.1" 404 1052
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:27 +0530] "GET /JspApp12-UseBean/set_values.jsp HTTP/1.1" 200 113
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:35 +0530] "GET /JspApp12-UseBean/get_values.jsp HTTP/1.1" 200 240
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:47 +0530] "GET /JspApp12-UseBean/get_values.jsp HTTP/1.1" 200 238
+0:0:0:0:0:0:0:1 - - [14/Jun/2016:18:45:47 +0530] "GET /favicon.ico HTTP/1.1" 404 1014

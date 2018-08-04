@@ -1,0 +1,7 @@
+<web-app>
+  <context-param>
+      <param-name>dbuser</param-name>
+      <param-value>scott</param-value>
+    </context-param>
+    
+</web-app>

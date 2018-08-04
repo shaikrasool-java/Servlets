@@ -1,0 +1,14 @@
+<web-app >
+  <display-name>StudentDAOWebApp</display-name>
+  <welcome-file-list>
+     <welcome-file>form.html</welcome-file>
+  </welcome-file-list>
+   <servlet>
+     <servlet-name>student</servlet-name>
+     <servlet-class>com.nt.servlet.StudentServlet</servlet-class>
+   </servlet>
+   <servlet-mapping>
+      <servlet-name>student</servlet-name>
+      <url-pattern>/studenturl</url-pattern>
+   </servlet-mapping>
+</web-app>

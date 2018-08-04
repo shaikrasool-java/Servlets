@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>ServletCommunitcation</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  
+  <context-param>
+  <param-name>driver</param-name>
+  <param-value>oracle.jdbc.driver.OracleDriver</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>url</param-name>
+  <param-value>jdbc:oracle:thin:@localhost:1521:xe</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>user</param-name>
+  <param-value>system</param-value>
+  </context-param>
+  
+  <context-param>
+  <param-name>password</param-name>
+ <param-value>manager</param-value>
+  </context-param>
+
+  <servlet>
+    <description></description>
+    <display-name>DBServlet</display-name>
+    <servlet-name>DBServlet</servlet-name>
+    <servlet-class>com.servlet.dao.DBServlet</servlet-class>
+	<!-- <load-on-startup>1</load-on-startup> -->
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DBServlet</servlet-name>
+    <url-pattern>/DBServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>HeaderServlet</display-name>
+    <servlet-name>HeaderServlet</servlet-name>
+    <servlet-class>com.servlet.view.HeaderServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>HeaderServlet</servlet-name>
+    <url-pattern>/HeaderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>ErrorServlet</display-name>
+    <servlet-name>ErrorServlet</servlet-name>
+    <servlet-class>com.servlet.view.ErrorServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>ErrorServlet</servlet-name>
+    <url-pattern>/ErrorServlet</url-pattern>
+  </servlet-mapping>
+</web-app>

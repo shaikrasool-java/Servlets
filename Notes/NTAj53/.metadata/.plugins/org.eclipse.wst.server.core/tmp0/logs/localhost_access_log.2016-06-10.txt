@@ -1,0 +1,7 @@
+127.0.0.1 - - [10/Jun/2016:18:05:28 +0530] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [10/Jun/2016:18:05:30 +0530] "GET /JspApp10-SendRedirection/ HTTP/1.1" 404 1042
+0:0:0:0:0:0:0:1 - - [10/Jun/2016:18:05:40 +0530] "GET /JspApp10-SendRedirection/form.html HTTP/1.1" 200 191
+0:0:0:0:0:0:0:1 - - [10/Jun/2016:18:05:48 +0530] "POST /JspApp10-SendRedirection/search.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2016:18:06:58 +0530] "POST /JspApp10-SendRedirection/search.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2016:18:07:21 +0530] "POST /JspApp10-SendRedirection/search.jsp HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [10/Jun/2016:18:07:24 +0530] "POST /JspApp10-SendRedirection/search.jsp HTTP/1.1" 302 -

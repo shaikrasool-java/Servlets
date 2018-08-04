@@ -1,0 +1,60 @@
+
+May 14, 2016 17:37:07.43 NEW SESSION
+May 14, 2016 17:37:07.43 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+May 14, 2016 18:25:16.89 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+May 16, 2016 17:59:42.30 NEW SESSION
+May 16, 2016 17:59:42.30 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+May 16, 2016 18:05:38.16 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+May 16, 2016 18:09:38.21 1463402378215	addons.repository	WARN	Search failed when repopulating cache
+May 16, 2016 18:09:38.24 1463402378247	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+May 16, 2016 18:09:38.25 1463402378250	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+May 17, 2016 17:15:17.82 NEW SESSION
+May 17, 2016 17:15:17.82 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 01, 2016 18:37:37.68 NEW SESSION
+Jun 01, 2016 18:37:37.68 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jun 01, 2016 18:45:38.18 1464786938186	addons.repository	WARN	Search failed when repopulating cache
+Jun 01, 2016 18:45:38.24 1464786938244	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jun 01, 2016 18:45:38.24 1464786938246	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+Jun 04, 2016 17:42:58.22 NEW SESSION
+Jun 04, 2016 17:42:58.22 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jun 04, 2016 18:48:58.29 1465046338299	addons.repository	WARN	Search failed when repopulating cache
+Jun 04, 2016 18:48:58.33 1465046338338	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jun 04, 2016 18:48:58.34 1465046338343	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+Jun 05, 2016 09:21:03.63 NEW SESSION
+Jun 05, 2016 09:21:03.63 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 08, 2016 18:16:24.26 NEW SESSION
+Jun 08, 2016 18:16:24.26 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 11, 2016 17:36:34.80 NEW SESSION
+Jun 11, 2016 17:36:34.80 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jun 11, 2016 17:42:34.99 1465647155006	addons.repository	WARN	Search failed when repopulating cache
+Jun 11, 2016 17:42:35.03 1465647155040	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jun 11, 2016 17:42:35.03 1465647155046	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+Jun 14, 2016 18:45:09.98 NEW SESSION
+Jun 14, 2016 18:45:09.98 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 16, 2016 17:07:52.93 NEW SESSION
+Jun 16, 2016 17:07:52.93 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jun 16, 2016 17:16:40.17 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 20, 2016 18:35:20.62 NEW SESSION
+Jun 20, 2016 18:35:20.62 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 22, 2016 18:15:01.86 NEW SESSION
+Jun 22, 2016 18:15:01.86 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+
+Jun 25, 2016 11:17:15.13 NEW SESSION
+Jun 25, 2016 11:17:15.13 [GFX1-]: VendorIDMismatch 0x8086 0x1414
+Jun 25, 2016 11:27:15.46 1466834235448	addons.repository	WARN	Search failed when repopulating cache
+Jun 25, 2016 11:27:15.49 1466834235508	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jun 25, 2016 11:27:15.49 1466834235512	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+
+Jun 25, 2016 17:21:20.18 NEW SESSION
+Jun 25, 2016 17:21:20.18 [GFX1-]: VendorIDMismatch 0x8086 0x1414

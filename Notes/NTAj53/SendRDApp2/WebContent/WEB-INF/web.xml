@@ -1,0 +1,14 @@
+<web-app >
+  <display-name>SearchApp</display-name>
+  <welcome-file-list>
+     <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+   <servlet>
+     <servlet-name>search</servlet-name>
+     <servlet-class>com.nt.servlet.SearchServlet</servlet-class>
+   </servlet>
+   <servlet-mapping>
+      <servlet-name>search</servlet-name>
+      <url-pattern>/searchurl</url-pattern>
+   </servlet-mapping>
+</web-app>

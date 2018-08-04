@@ -1,0 +1,5 @@
+127.0.0.1 - - [09/Jun/2016:18:48:13 +0530] "GET / HTTP/1.1" 404 992
+127.0.0.1 - - [09/Jun/2016:18:48:15 +0530] "GET /JspApp9-ForwardUseCase/ HTTP/1.1" 404 1038
+127.0.0.1 - - [09/Jun/2016:18:48:26 +0530] "GET /JspApp9-ForwardUseCase/form.html HTTP/1.1" 200 305
+127.0.0.1 - - [09/Jun/2016:18:48:39 +0530] "POST /JspApp9-ForwardUseCase/bill.jsp HTTP/1.1" 200 138
+127.0.0.1 - - [09/Jun/2016:18:48:56 +0530] "POST /JspApp9-ForwardUseCase/bill.jsp HTTP/1.1" 200 113

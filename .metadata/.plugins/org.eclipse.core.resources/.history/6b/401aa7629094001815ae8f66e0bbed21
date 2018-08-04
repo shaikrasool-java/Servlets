@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<center>	
+<h1><center>MIME:MultipurposeInternetMailExtension</center></h1>
+</center>
+<a href="HtmlServlet">html content</a><br>
+<a href="WordServlet">word content</a><br>
+<a href="ExcelServlet">excel content</a><br>
+<a href="XmlServlet">xml content</a>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<talbe>
+		<tr><th>enter..</th><th>enter details</th></tr>
+		<tr><td>Enter No.of Experience:</td>"
+				+ "<td><input type='text' name='exp'></td></tr>
+		<tr><td>Select Skill:</td>"
+				+ "<td><select name='skills'>
+		<option value='java'>java/j2ee</option>
+		<option value='.net'>.net</option>
+		<option value='oracle'>oracle10g/11g</option>
+		<option value='xml'>xml&web services</option>
+		</td></tr>
+		<tr><td><td><input type='submit' value='Continue'></td></td></tr>
+		</table>

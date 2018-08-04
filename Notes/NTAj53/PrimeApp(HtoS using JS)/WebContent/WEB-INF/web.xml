@@ -1,0 +1,13 @@
+<web-app >
+  <welcome-file-list>
+    <welcome-file>form.html</welcome-file>
+  </welcome-file-list>
+    <servlet>
+      <servlet-name>prime</servlet-name>
+      <servlet-class>com.nt.servlet.CheckPrimeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+      <servlet-name>prime</servlet-name>
+      <url-pattern>/primeurl</url-pattern>
+    </servlet-mapping>
+</web-app>

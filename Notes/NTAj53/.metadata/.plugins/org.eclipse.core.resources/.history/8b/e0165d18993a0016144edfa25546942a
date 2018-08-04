@@ -1,0 +1,4 @@
+
+uname req param value  :  ${param.uname } <br>
+address request param values : ${paramValues.addrs[0] },
+                                                              ${paramValues.addrs[1] }.

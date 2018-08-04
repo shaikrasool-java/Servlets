@@ -1,0 +1,51 @@
+<%@page import="java.util.ArrayList, com.nt.model.BookBean" %>
+<%
+	ArrayList al = (ArrayList)request.getAttribute("list");
+%>
+
+<html>
+
+	<script language='javascript'>
+		function showprint()
+		{
+			frames.focus();
+			frames.print();
+		}
+	</script>
+
+<body>
+	<center><h2><u>
+	Books belonging to category <%= request.getParameter("category").toUpperCase() %>
+	<u></h2></center>
+	<br>
+	<table border="1" width="100%">
+		<tr>
+			<th>Sno</th>
+			<th>BookId</th>
+			<th>BookName</th>
+			<th>AuthorName</th>
+			<th>Status</th>
+		</tr>
+		<%
+			for(int i = 0; i < al.size(); i++)
+			{
+				BookBean sb=(BookBean)al.get(i);
+		%>
+		<tr>
+			<td><%= (i+1) %></td>
+			<td><%= sb.getBookId() %></td>
+			<td><%= sb.getBookName() %></td>
+			<td><%= sb.getAuthorName() %></td>
+			<td><%= sb.getStatus() %></td>
+		</tr>
+		<%
+			}
+		%>
+	</table>
+
+	<center>
+	<a href="javascript:showprint()">Print</a>
+	</center>
+	</form>
+</body>
+</html>

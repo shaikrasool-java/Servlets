@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;WebContent&apos;&#x0D;&#x0A;- Original project: &apos;JspApp15-AddRotator&apos;&#x0D;&#x0A;- Destination element: &apos;WebContent&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     4.jpg&#x0D;&#x0A;     5.jpg&#x0D;&#x0A;     2.jpg&#x0D;&#x0A;     1.jpg&#x0D;&#x0A;     3.jpg" description="Copy files" element1="WebContent/4.jpg" element2="WebContent/5.jpg" element3="WebContent/2.jpg" element4="WebContent/1.jpg" element5="WebContent/3.jpg" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1466080550449" target="/JspApp13-AddRotator/WebContent" units="0" version="1.0"/>
+</session>
